@@ -1,0 +1,7 @@
+{Run}
+1. Install liberaries required by application.
+
+{Deploy}
+1. You need to have a SSL certificate(from CA/OpenSSL).
+2. To use socket io chat app you might require https instead of http.
+3. Include SSL certificate and key in Server js file.
